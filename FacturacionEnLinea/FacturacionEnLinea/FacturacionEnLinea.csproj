@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\ImpuestosNacionales\Algoritmos\Algoritmos.csproj" />
+    <ProjectReference Include="..\Algoritmos\Algoritmos.csproj" />
   </ItemGroup>
 
 </Project>
